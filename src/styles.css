@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.localvideo_main {
+  width: 200px;
+  height: 150px;
+  margin-top: 5px;
+  position: absolute;
+  margin-right: 5px;
+  left: 628px;
+}
+.localvideo_side {
+  margin-left: 79em;
+  margin-top: 1.5em;
+  z-index: 100;
+  width: 12vw !important;
+  height: 8vw !important;
+}
